@@ -1,4 +1,4 @@
-# Estruturas de Controle - Rotações
+# Estruturas de Controle - Loops
 
 Em programação, as estruturas de controle também podem ser utilizadas para realizar rotações ou movimentos em um contexto específico, como em jogos ou animações. 
 

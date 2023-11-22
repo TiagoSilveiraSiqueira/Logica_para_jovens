@@ -1,4 +1,4 @@
-# Estruturas de Controle - Se/Outro
+# Estruturas de Controle - If-Else
 
 Em programação, as estruturas de controle `if-else` (ou "se/outro" em português) são fundamentais para tomada de decisões em um programa. Essas estruturas permitem que o código escolha diferentes caminhos de execução com base em condições específicas.
 

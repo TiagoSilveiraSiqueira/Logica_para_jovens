@@ -22,5 +22,5 @@ if idade >= 18:
 else:
     print("Desculpe, você é menor de idade. Acesso negado.")
 ```
-Desafio Extra
+# Desafio Extra
 Adicione uma verificação adicional para verificar se a entrada do usuário é um número válido. Se não for, exiba uma mensagem de erro.

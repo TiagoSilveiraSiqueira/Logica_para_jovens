@@ -41,6 +41,6 @@ Bem-vindo ao repositório de lógica de programação para jovens! Este é um re
 
 ## Licença
 
-Este projeto está sob a [Licença MIT](LICENSE).
+Este projeto está sob Direitos Autorais de Tiago Silveira Siqueira.
 
 ---

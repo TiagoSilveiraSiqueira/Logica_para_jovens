@@ -1,4 +1,4 @@
-# Exercícios: Estruturas de Controle - Se/Outro e Rotações
+# Exercícios: Estruturas de Controle - exercicios-if-else-loops
 
 ## Exercício 1: Rotação Condicional
 
